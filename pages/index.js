@@ -36,6 +36,7 @@ export default function Home() {
           >
             <h3>Examples &rarr;</h3>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Example 2 ...</p>
           </a>
 
           <a
